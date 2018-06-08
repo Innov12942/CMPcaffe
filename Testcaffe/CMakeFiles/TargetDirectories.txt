@@ -1,0 +1,3 @@
+/home/kaddxu/CMPcaffe/Testcaffe/CMakeFiles/edit_cache.dir
+/home/kaddxu/CMPcaffe/Testcaffe/CMakeFiles/rebuild_cache.dir
+/home/kaddxu/CMPcaffe/Testcaffe/CMakeFiles/pt_test.dir

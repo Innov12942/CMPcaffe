@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/pt_test.dir/pt.cpp.o  -o pt_test -rdynamic /home/kaddxu/CMPcaffe/build/lib/libcaffe.so -lglog -lboost_system -lprotobuf -Wl,-rpath,/home/kaddxu/CMPcaffe/build/lib 
